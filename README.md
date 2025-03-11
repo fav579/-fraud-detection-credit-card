@@ -26,7 +26,9 @@ SQL Queries
 Key queries for fraud detection and transaction trends can be found in the SQL Queries/ folder.
 
 Visualizations
-Screenshots of Power BI dashboards are available in the Power BI Dashboard/ folder.
+DASHBOARD SCREENSHOT FOR CUSTOMER SPENDING [customer spending dashboRD.JPG]
+DASHBOARD SCREENSHOT FOR MERCHANT
+
 
 How to Run This Project
 Import the dataset into SQL Server.
